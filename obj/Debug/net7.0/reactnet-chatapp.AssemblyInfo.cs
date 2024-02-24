@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("reactnet-chatapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a25dcba7fe9fafe5680848719f3b1f92e7931280")]
 [assembly: System.Reflection.AssemblyProductAttribute("reactnet-chatapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("reactnet-chatapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
