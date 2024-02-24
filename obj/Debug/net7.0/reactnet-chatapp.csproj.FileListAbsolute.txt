@@ -30,3 +30,4 @@
 /home/scott/reactnet-chatapp/obj/Debug/net7.0/reactnet-chatapp.pdb
 /home/scott/reactnet-chatapp/obj/Debug/net7.0/reactnet-chatapp.genruntimeconfig.cache
 /home/scott/reactnet-chatapp/obj/Debug/net7.0/ref/reactnet-chatapp.dll
+/home/scott/reactnet-chatapp/obj/Debug/net7.0/reactnet-chatapp.sourcelink.json
