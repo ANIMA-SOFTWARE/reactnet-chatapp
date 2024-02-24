@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VNW0ARJLPtE9h7JI0Fc3RBoJvnV8sZAMsbKfYks6jHPb2/mv/+Ir2xsuWFzAE6OHa5badPjolLvhpg5tbj++AQ==",
+  "success": true,
+  "projectFilePath": "/home/scott/reactnet-chatapp/reactnet-chatapp.csproj",
+  "expectedPackageFiles": [
+    "/home/scott/.nuget/packages/microsoft.aspnetcore.spaproxy/7.0.15/microsoft.aspnetcore.spaproxy.7.0.15.nupkg.sha512",
+    "/home/scott/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/scott/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.15/microsoft.netcore.app.host.linux-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

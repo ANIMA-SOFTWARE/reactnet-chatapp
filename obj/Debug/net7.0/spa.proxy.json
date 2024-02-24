@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44490",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/home/scott/reactnet-chatapp/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}

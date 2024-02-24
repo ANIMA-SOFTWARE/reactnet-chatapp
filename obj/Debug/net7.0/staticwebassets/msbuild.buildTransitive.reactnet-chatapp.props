@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/reactnet-chatapp.props" />
+</Project>
